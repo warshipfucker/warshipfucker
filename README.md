@@ -14,4 +14,3 @@
   | <img width=400 src="https://raw.githubusercontent.com/warshipfucker/warshipfucker/main/gifs/artifact.gif"> | <img width=400 src="https://raw.githubusercontent.com/warshipfucker/warshipfucker/main/gifs/artifact%20(1).gif"> | <img width=400 src="https://raw.githubusercontent.com/warshipfucker/warshipfucker/main/gifs/artifact%20(2).gif"> |   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshipfucker&layout=compact)](https://github.com/warshipfucker/github-readme-stats)
